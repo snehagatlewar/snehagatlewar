@@ -5,10 +5,6 @@
 ### 🚀 **About Me**
 
 I am a **Full-Stack Developer** with a focus on building **responsive**, **interactive**, and **scalable** web applications. I specialize in **HTML**, **CSS**, **JavaScript**, **React.js**, as well as **Java** and **SQL** for back-end development. With a comprehensive understanding of both front-end and back-end technologies, I’m passionate about creating seamless user experiences and high-performance web solutions. Constantly learning and adapting to new tools and frameworks, I’m excited to contribute to dynamic projects and bring innovative ideas to life.
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 </br>
 
 ---
@@ -54,7 +50,11 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
 ![Snehagatlewar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehagatlewar&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Snehagatlewar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical&exclude_lang=Jupyter%20Notebook)
 
-![Profile View Count](https://profile-counter.glitch.me/snehagatlewar/count.svg)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=snehagatlewar&label=Profile%20views&color=6a4c93&style=flat&padding=10" alt="snehagatlewar" />
+</p>
+
 
 
 ---
