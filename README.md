@@ -4,13 +4,12 @@
 
 ---
 
-### 📍 **Contact Information:**
-- **Email**: [snehagatlewar64@gmail.com](mailto:snehagatlewar64@gmail.com)
-- **Phone**: 8421846058
-- **LinkedIn**: [linkedin.com/in/sneha-gatlewar-1524a8194](https://linkedin.com/in/sneha-gatlewar-1524a8194)
-- **GitHub**: [github.com/snehagatlewar](https://github.com/snehagatlewar)
+### 🚀 **About Me**
+
+I am a **Frontend Developer** specializing in building **responsive**, **interactive** websites using technologies like **HTML**, **CSS**, **JavaScript**, and **React.js**. Currently interning at **Anishree Technologies Pvt. Ltd.**, I’m eager to continue honing my skills and contributing to impactful projects.
 
 ---
+
 <h3 align="left">▶ Connect with me:</h3>
 <p>
     <a href="https://www.linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">
@@ -27,23 +26,10 @@
     </a>
 </p>
 
----
-
-### 🚀 **About Me**
-
-I am a **Frontend Developer** specializing in building **responsive**, **interactive** websites using technologies like **HTML**, **CSS**, **JavaScript**, and **React.js**. Currently interning at **Anishree Technologies Pvt. Ltd.**, I’m eager to continue honing my skills and contributing to impactful projects.
 
 ---
 
-### 💻 **Technical Skills**
-
-- **Programming Languages**: C, C++, Java
-- **Frontend Technologies**: HTML, CSS, JavaScript, React.js, Bootstrap
-- **Version Control**: Git, GitHub
-
----
-
-#### My current technology stack:
+#### Technology Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -115,17 +101,3 @@ When I’m not coding, I love working on **robotics projects** and experimenting
 
 
 
-<!--
-**snehagatlewar/snehagatlewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
