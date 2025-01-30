@@ -11,14 +11,25 @@
 - **GitHub**: [github.com/snehagatlewar](https://github.com/snehagatlewar)
 
 ---
-### 📍 **Contact Information:**
-<div style="background-color: #f1f1f1; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-  <p><strong>Email:</strong> <a href="mailto:snehagatlewar64@gmail.com">snehagatlewar64@gmail.com</a></p>
-  <p><strong>Phone:</strong> 8421846058</p>
-  <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">linkedin.com/in/sneha-gatlewar-1524a8194</a></p>
-  <p><strong>GitHub:</strong> <a href="https://github.com/snehagatlewar" target="_blank">github.com/snehagatlewar</a></p>
-  <p><strong>HackerRank:</strong> <a href="https://www.hackerrank.com/snehagatlewar" target="_blank">hackerrank.com/snehagatlewar</a></p>
-</div>
+<h3 align="left">▶ Connect with me:</h3>
+<p>
+    <a href="https://www.linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/snehagatlewar" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.hackerrank.com/snehagatlewar" target="_blank">
+        <img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white" />
+    </a>
+    <a href="mailto:snehagatlewar64@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-222222?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="tel:+918421846058">
+        <img src="https://img.shields.io/badge/-Phone-222222?style=flat-square&logo=phone&logoColor=white" />
+    </a>
+</p>
+
 
 ---
 
