@@ -51,7 +51,7 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
 ![Snehagatlewar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical&exclude_lang=Jupyter%20Notebook)
 
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehagatlewar&label=Profile%20views&color=6a4c93&style=flat&padding=40" alt="snehagatlewar" />
 </p>
 
@@ -62,9 +62,7 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
   <img src="https://badges.pufler.dev/repos/snehagatlewar/?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://badges.pufler.dev/commits/monthly/snehagatlewar"/>
-</p>
+
 
 
 
