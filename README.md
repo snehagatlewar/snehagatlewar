@@ -38,12 +38,12 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
 
 ----
 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-<h3 align="left">▶ Languages and Tools:</h3>
+   
+    <h3 align="left">▶ Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
+  
   <!-- Programming Languages -->
-  <kbd style="background-color: #f1f1f1; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <kbd style="background-color: #f0f8ff; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <kbd>Programming Languages</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
@@ -52,7 +52,7 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
   </kbd>
 
   <!-- Front-end -->
-  <kbd style="background-color: #e7f7f7; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <kbd style="background-color: #f7f7f7; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <kbd>Front-end</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
@@ -64,7 +64,7 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
   </kbd>
 
   <!-- Back-end -->
-  <kbd style="background-color: #fef9e4; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <kbd style="background-color: #e8ffe8; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
     <kbd>Back-end</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
