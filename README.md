@@ -1,6 +1,4 @@
 # Hi, I'm **SNEHA RAJENDRA GATLEWAR** 👩‍💻✨
-🚀 **Creative Web Developer** | 💻 Full-Stack Enthusiast   
-📍 Nagpur, Maharashtra, India
 
 ---
 
