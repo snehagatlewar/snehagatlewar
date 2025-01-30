@@ -1,6 +1,5 @@
 # Hi, I'm **SNEHA RAJENDRA GATLEWAR** 👩‍💻✨
 
----
 
 ### 🚀 **About Me**
 
