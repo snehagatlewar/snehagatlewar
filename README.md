@@ -10,25 +10,6 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
 
 ---
 
-<h3 align="left">▶ Connect with me:</h3>
-<p>
-    <a href="https://www.linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:snehagatlewar64@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/snehagatlewar" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.hackerrank.com/snehagatlewar" target="_blank">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-    </a>
-</p>
-
-
----
-
 #### Technology Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -82,8 +63,23 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
 ![Snehagatlewar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehagatlewar&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Snehagatlewar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical)
 
+---
 
-
+<h3 align="left">▶ Connect with me:</h3>
+<p>
+    <a href="https://www.linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:snehagatlewar64@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/snehagatlewar" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.hackerrank.com/snehagatlewar" target="_blank">
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+    </a>
+</p>
 
 ---
 
