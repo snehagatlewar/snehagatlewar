@@ -38,8 +38,7 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
 
 ----
 
-   
-    <h3 align="left">▶ Languages and Tools:</h3>
+  <h3 align="left">▶ Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
   
   <!-- Programming Languages -->
@@ -48,7 +47,7 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
   </kbd>
 
   <!-- Front-end -->
@@ -71,7 +70,15 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </kbd>
+
+  <!-- Database -->
+  <kbd style="background-color: #d1e7dd; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <kbd>Database</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  </kbd>
 </p>
+
 
 ----
 
