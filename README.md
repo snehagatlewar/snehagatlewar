@@ -26,17 +26,11 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
 
 ---
 
-### 🏆 **Achievements**
-
-- **1st College Rank & 191st International Rank** in **SOF International Mathematics Olympiad**.
-- **1st Prize** in an inter-college **Presentation Competition** for the best presentation.
-- Participated in **Robotic Competition** organized by **IIT Bombay** (e-Yantra).
-- Competed in the **Robo-race** at **UTSAV 2023**.
-
----
 
 ### 📊 **GitHub Stats**  
 ![Snehagatlewar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehagatlewar&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Snehagatlewar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical)
+
 
 ---
 
