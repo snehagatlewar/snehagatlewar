@@ -55,6 +55,18 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
   <img src="https://komarev.com/ghpvc/?username=snehagatlewar&label=Profile%20views&color=6a4c93&style=flat&padding=40" alt="snehagatlewar" />
 </p>
 
+<h3 align="left">▶ Stats:</h3>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/snehagatlewar/snehagatlewar?style=for-the-badge"/>
+  <img src="https://badges.pufler.dev/repos/snehagatlewar/?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://badges.pufler.dev/commits/monthly/snehagatlewar"/>
+</p>
+
+
 
 
 ---
