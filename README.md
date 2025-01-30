@@ -11,6 +11,16 @@
 - **GitHub**: [github.com/snehagatlewar](https://github.com/snehagatlewar)
 
 ---
+### 📍 **Contact Information:**
+<div style="background-color: #f1f1f1; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <p><strong>Email:</strong> <a href="mailto:snehagatlewar64@gmail.com">snehagatlewar64@gmail.com</a></p>
+  <p><strong>Phone:</strong> 8421846058</p>
+  <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">linkedin.com/in/sneha-gatlewar-1524a8194</a></p>
+  <p><strong>GitHub:</strong> <a href="https://github.com/snehagatlewar" target="_blank">github.com/snehagatlewar</a></p>
+  <p><strong>HackerRank:</strong> <a href="https://www.hackerrank.com/snehagatlewar" target="_blank">hackerrank.com/snehagatlewar</a></p>
+</div>
+
+---
 
 ### 🚀 **About Me**
 
@@ -67,17 +77,9 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
     <kbd>Back-end</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </kbd>
 
-  <!-- Database -->
-  <kbd style="background-color: #d1e7dd; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <kbd>Database</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  </kbd>
-</p>
 
 
 ----
