@@ -54,6 +54,8 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
 ![Snehagatlewar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehagatlewar&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Snehagatlewar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical&exclude_lang=Jupyter%20Notebook)
 
+![Profile View Count](https://profile-counter.glitch.me/snehagatlewar/count.svg)
+
 
 ---
 
