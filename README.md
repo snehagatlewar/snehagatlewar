@@ -89,7 +89,6 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
 - Build **high-impact applications** that provide meaningful solutions and enhance user experience.
 - **Contribute to the open-source community** and collaborate with talented developers across the globe.
 
----
 
 ### 🌟 **Fun Tidbit About Me**
 When I’m not coding, I enjoy exploring new technologies and learning about the latest trends in the tech world. I’m passionate about pushing the boundaries of what’s possible and always looking for ways to improve my skills.
