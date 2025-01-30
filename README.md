@@ -15,7 +15,6 @@
 <p>
     <a href="https://www.linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle; margin-left: 5px;" />
     </a>
     <a href="mailto:snehagatlewar64@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
