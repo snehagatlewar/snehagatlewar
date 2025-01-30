@@ -14,21 +14,22 @@
 <h3 align="left">▶ Connect with me:</h3>
 <p>
     <a href="https://www.linkedin.com/in/sneha-gatlewar-1524a8194" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/snehagatlewar" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </a>
     <a href="https://www.hackerrank.com/snehagatlewar" target="_blank">
-        <img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white" />
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
     </a>
     <a href="mailto:snehagatlewar64@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-222222?style=flat-square&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="tel:+918421846058">
-        <img src="https://img.shields.io/badge/-Phone-222222?style=flat-square&logo=phone&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
     </a>
 </p>
+
 
 
 ---
