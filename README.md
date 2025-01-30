@@ -1,15 +1,11 @@
 # Hi, I'm **SNEHA RAJENDRA GATLEWAR** 👩‍💻✨
 
-#### Motivated Frontend Developer based in **Nagpur, Maharashtra, India**. Passionate about **technology**, **creative problem-solving**, and **communication**.
-
 ---
 
 ### 🚀 **About Me**
 
-I am a **Frontend Developer** specializing in building **responsive**, **interactive** websites using technologies like **HTML**, **CSS**, **JavaScript**, and **React.js**. Currently interning at **Anishree Technologies Pvt. Ltd.**, I’m eager to continue honing my skills and contributing to impactful projects.
+I am a **Full-Stack Developer** with a focus on building **responsive**, **interactive**, and **scalable** web applications. I specialize in **HTML**, **CSS**, **JavaScript**, **React.js**, as well as **Java** and **SQL** for back-end development. With a comprehensive understanding of both front-end and back-end technologies, I’m passionate about creating seamless user experiences and high-performance web solutions. Constantly learning and adapting to new tools and frameworks, I’m excited to contribute to dynamic projects and bring innovative ideas to life.
 
-
-I am a Full-Stack Developer with a focus on building responsive, interactive, and scalable web applications. I specialize in HTML, CSS, JavaScript, React.js, as well as Java and SQL for back-end development. With a comprehensive understanding of both front-end and back-end technologies, I’m passionate about creating seamless user experiences and high-performance web solutions. Constantly learning and adapting to new tools and frameworks, I’m excited to contribute to dynamic projects and bring innovative ideas to life.
 ---
 
   <h3 align="left">▶ Languages and Tools:</h3>
