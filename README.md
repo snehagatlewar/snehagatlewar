@@ -50,10 +50,8 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
 ![Snehagatlewar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehagatlewar&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Snehagatlewar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical&exclude_lang=Jupyter%20Notebook)
 
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehagatlewar&label=Profile%20views&color=6a4c93&style=flat&padding=40" alt="snehagatlewar" />
-</p>
 
 <h3 align="left">▶ Stats:</h3>
 
@@ -87,17 +85,18 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
 
 ---
 
-### 🎯 **Goals**
-- To continue growing as a **Frontend Developer**.
-- Build **innovative web applications** that solve real-world problems.
-- Contribute to **open-source projects** and collaborate with fellow developers.
+### 🎯 **My Aspirations**
+- Keep evolving as a **Full-stack Developer**, mastering both **frontend** and **backend** technologies.
+- Build **high-impact applications** that provide meaningful solutions and enhance user experience.
+- **Contribute to the open-source community** and collaborate with talented developers across the globe.
 
 ---
 
-### 🌟 **Fun Fact**
-When I’m not coding, I love working on **robotics projects** and experimenting with new technologies!
+### 🌟 **Fun Tidbit About Me**
+When I’m not coding, I enjoy exploring new technologies and learning about the latest trends in the tech world. I’m passionate about pushing the boundaries of what’s possible and always looking for ways to improve my skills.
 
 ---
+
 
 
 
