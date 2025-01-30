@@ -10,18 +10,6 @@ I am a **Frontend Developer** specializing in building **responsive**, **interac
 
 ---
 
-#### Technology Stack:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=flat-square&logo=java&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-
-
-----
-
   <h3 align="left">▶ Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
   
