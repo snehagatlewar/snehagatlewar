@@ -52,7 +52,7 @@ I am a **Full-Stack Developer** with a focus on building **responsive**, **inter
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snehagatlewar&label=Profile%20views&color=6a4c93&style=flat&padding=10" alt="snehagatlewar" />
+  <img src="https://komarev.com/ghpvc/?username=snehagatlewar&label=Profile%20views&color=6a4c93&style=flat&padding=40" alt="snehagatlewar" />
 </p>
 
 
