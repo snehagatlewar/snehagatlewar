@@ -6,7 +6,8 @@
 I am a **Full-Stack Developer** with a focus on building **responsive**, **interactive**, and **scalable** web applications. I specialize in **HTML**, **CSS**, **JavaScript**, **React.js**, as well as **Java** and **SQL** for back-end development. With a comprehensive understanding of both front-end and back-end technologies, I’m passionate about creating seamless user experiences and high-performance web solutions. Constantly learning and adapting to new tools and frameworks, I’m excited to contribute to dynamic projects and bring innovative ideas to life.
 </br>
 
----
+I am a **Data Analyst** with a focus on transforming **raw data into clear, actionable insights**. I specialize in **Python**, **SQL**, **Excel**, and **Power BI** for **data cleaning**, **visualization**, and **analysis**. With a solid understanding of data manipulation and reporting, I’m passionate about uncovering patterns that help drive smarter business decisions. I enjoy working with complex datasets, creating **interactive dashboards**, and presenting insights in a way that tells a story. Constantly learning and exploring new tools, I’m excited to contribute to **data-driven projects** and bring meaningful impact through analytics. </br>
+</br>
 
   <h3 align="left">▶ Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
