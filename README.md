@@ -6,41 +6,6 @@
 I am a **Data Analyst** with a focus on transforming **raw data into clear, actionable insights**. I specialize in **Python**, **SQL**, **Excel**, and **Power BI** for **data cleaning**, **visualization**, and **analysis**. With a solid understanding of data manipulation and reporting, I’m passionate about uncovering patterns that help drive smarter business decisions. I enjoy working with complex datasets, creating **interactive dashboards**, and presenting insights in a way that tells a story. Constantly learning and exploring new tools, I’m excited to contribute to **data-driven projects** and bring meaningful impact through analytics. </br>
 </br>
 
-  <h3 align="left">▶ Languages and Tools:</h3>
-<p style="display: inline-block;" align="center">
-  
-  <!-- Programming Languages -->
-  <kbd style="background-color: #f0f8ff; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <kbd>Programming Languages</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-  </kbd>
-
-  <!-- Front-end -->
-  <kbd style="background-color: #f7f7f7; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <kbd>Front-end</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <a href="https://reactjs.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-  </kbd>
-
-  <!-- Back-end -->
-  <kbd style="background-color: #e8ffe8; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-    <kbd>Back-end</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  </kbd>
-
-
-
-
 
 <h3 align="left">▶ Languages and Tools:</h3>
 <p style="display: inline-block;" align="center">
@@ -50,7 +15,6 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
     <kbd>Programming & Scripting</kbd>
     <br><br>
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </kbd>
 
@@ -59,7 +23,6 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
     <kbd>Databases & Querying</kbd>
     <br><br>
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   </kbd>
 
