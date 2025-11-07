@@ -3,9 +3,6 @@
 
 ### 🚀 **About Me**
 
-I am a **Full-Stack Developer** with a focus on building **responsive**, **interactive**, and **scalable** web applications. I specialize in **HTML**, **CSS**, **JavaScript**, **React.js**, as well as **Java** and **SQL** for back-end development. With a comprehensive understanding of both front-end and back-end technologies, I’m passionate about creating seamless user experiences and high-performance web solutions. Constantly learning and adapting to new tools and frameworks, I’m excited to contribute to dynamic projects and bring innovative ideas to life.
-</br>
-
 I am a **Data Analyst** with a focus on transforming **raw data into clear, actionable insights**. I specialize in **Python**, **SQL**, **Excel**, and **Power BI** for **data cleaning**, **visualization**, and **analysis**. With a solid understanding of data manipulation and reporting, I’m passionate about uncovering patterns that help drive smarter business decisions. I enjoy working with complex datasets, creating **interactive dashboards**, and presenting insights in a way that tells a story. Constantly learning and exploring new tools, I’m excited to contribute to **data-driven projects** and bring meaningful impact through analytics. </br>
 </br>
 
@@ -41,6 +38,52 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   </kbd>
 
+
+
+
+
+<h3 align="left">▶ Languages and Tools:</h3>
+<p style="display: inline-block;" align="center">
+
+  <!-- Programming & Scripting -->
+  <kbd style="background-color: #f0f8ff; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <kbd>Programming & Scripting</kbd>
+    <br><br>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  </kbd>
+
+  <!-- Databases & Querying -->
+  <kbd style="background-color: #e8ffe8; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <kbd>Databases & Querying</kbd>
+    <br><br>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  </kbd>
+
+  <!-- Data Visualization -->
+  <kbd style="background-color: #f7f7f7; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <kbd>Data Visualization</kbd>
+    <br><br>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+  </kbd>
+
+  <!-- Tools & Platforms -->
+  <kbd style="background-color: #fff5e6; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <kbd>Tools & Platforms</kbd>
+    <br><br>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </kbd>
+
+</p>
 
 
 ----
