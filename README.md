@@ -23,7 +23,6 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
     <kbd>Databases & Querying</kbd>
     <br><br>
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   </kbd>
 
   <!-- Data Visualization -->
@@ -33,7 +32,6 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
     <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
     <img width="35px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
 
   </kbd>
