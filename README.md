@@ -90,10 +90,11 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
 
 ---
 
-### 🎯 **My Aspirations**
-- Keep evolving as a **Full-stack Developer**, mastering both **frontend** and **backend** technologies.
-- Build **high-impact applications** that provide meaningful solutions and enhance user experience.
-- **Contribute to the open-source community** and collaborate with talented developers across the globe.
+  ### 🎯 **My Aspirations**
+- Keep growing as a **Data Analyst**, mastering **data visualization, analytics, and automation** tools.  
+- Work on **real-world data problems** that drive meaningful business decisions and innovation.  
+- **Contribute to data-driven projects and open-source analytics communities**, learning from and collaborating with talented professionals worldwide.  
+
 
 
 ### 🌟 **Fun Tidbit About Me**
