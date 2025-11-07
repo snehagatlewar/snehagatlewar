@@ -58,6 +58,10 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
 ![Snehagatlewar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehagatlewar&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Snehagatlewar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical&exclude_lang=Jupyter%20Notebook)
 
+
+![Sneha Gatlewar's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=snehagatlewar&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical&exclude_lang=Jupyter%20Notebook)
+
 ---
 
 
