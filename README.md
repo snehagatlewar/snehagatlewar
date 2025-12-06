@@ -60,12 +60,10 @@ I am a **Data Analyst** with a focus on transforming **raw data into clear, acti
 
 ### 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/snehagatlewar?style=social)
-![GitHub stars](https://img.shields.io/github/stars/snehagatlewar?style=social)
-
-
 ![Snehagatlewar's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehagatlewar&theme=radical)
 ![Snehagatlewar's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehagatlewar&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehagatlewar&layout=compact&theme=radical&hide=Jupyter%20Notebook)
+
 
 
 
